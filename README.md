@@ -9,12 +9,13 @@ http://tiny.cc/imagusc chrome
 http://tiny.cc/imagusf firefox  
     
 IF hover/enlarged pic  
-AND keyboard input   
-eg spacebar etc, except ESC    
+AND keyboard input "8"   
 THEN  
 1 66% black overlay  
 2 text input over 1  
-3 tag taginput spacedelineate enter  
+3 tag taginput spacedelineate enter
+a ESC to escape    
++ later maybe     
 4 save tags for pictureURL  
 5 if hover/enlarge off then ON  
 a show saved tags if any  
