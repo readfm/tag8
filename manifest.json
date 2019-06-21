@@ -1,0 +1,19 @@
+{
+  "name" : "tag8",
+  "version" : "0.1.4",
+  "description" : "Zoom, edit and tag pictures",
+  "background" : { "scripts": ["background.js"] },
+  "permissions" : [
+    "contextMenus",
+    "tabs",
+    "activeTab",
+    "webNavigation",
+    "http://*/*",
+    "https://*/*"
+   ],
+  "minimum_chrome_version" : "6.0.0.0",
+  "icons" : {
+    "128" : "zoomer.png"
+  },
+  "manifest_version": 2
+}
