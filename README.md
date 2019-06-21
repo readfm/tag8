@@ -35,3 +35,12 @@ c pix8 etc
 
 ![tag8 extend imagus extension](https://i.imgur.com/GMvh5fZ.gif)
 
+## keyboardshort 8 open tags, esc close 
+
+8 maybe? or easy way to map keyboard shortcut to enter tags   
+
+chrome-extension://immpkjjlgappgfkkfieppnmlhakdmaab/options.html#tools  
+
+![O NOM](https://i.imgur.com/T0TCHYx.png)  
+
+
