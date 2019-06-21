@@ -13,7 +13,7 @@ AND keyboard input "8"
 THEN  
 1 66% black overlay  
 2 text input over 1  
-3 tag taginput spacedelineate enter
+3 tag taginput spacedelineate enter    
 a ESC to escape    
 + later maybe     
 4 save tags for pictureURL  
